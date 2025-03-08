@@ -99,6 +99,3 @@ The current model can be extended by incorporating more granular temporal data, 
 - [StatQuest with Josh Starmer (YouTube Video): "Naive Bayes, Clearly Explained!!!"](https://www.youtube.com/watch?v=O2D3x8oV2uM)  
 - [DataCamp: "Supervised Learning with scikit-learn"](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)  
 - [StatQuest with Josh Starmer (YouTube Video): "Decision Trees"](https://www.youtube.com/watch?v=7VeUPuFGJ8I)  
-
-## Report  
-For a detailed report on the project, please visit [Report Link](./Report.pdf).  
